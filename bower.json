@@ -1,0 +1,18 @@
+{
+  "name": "screenshoter",
+  "description": "Utility to make screenshot COMODO projects",
+  "main": "dist/Screenshoter.js",
+  "authors": [
+    "Ruslan Smolovyk <ruslan.smolovik@comodo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1"
+}
